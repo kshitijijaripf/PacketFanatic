@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #f17272;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.navbar__logo {
+    width: 100px;
+    object-fit: contain;
+    margin-left:  20px;
+    margin-right: 20px;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+
+  }
