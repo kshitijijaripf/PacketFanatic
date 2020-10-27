@@ -1,7 +1,10 @@
 .Background{
-    object-fit: contain;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
     z-index: -1;
-    margin-bottom:-600px;
+    margin-bottom: -100px;
+   
 }
 
 

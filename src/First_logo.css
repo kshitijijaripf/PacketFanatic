@@ -1,9 +1,9 @@
 .logo{
-    background-color: rgb(255, 240, 244);
     margin:10px;
     height: 50%;
     width: 40%; 
     z-index: 1;
-    margin-left:450px;
-    object-fit: contain;
+    margin-top: 200px;
+    margin-left:300px;
+    border-radius: 50px;
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-import Firstpage_logo from './First_logo.css'
+import './First_logo.css'
 
 function First_logo() {
     return (
