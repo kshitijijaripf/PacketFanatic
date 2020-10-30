@@ -5,6 +5,7 @@ import Firstpage from './Firstpage'
 import First_logo from './First_logo'
 import Home from './Home'
 
+
 function App() {
   return (
     <Router>
@@ -12,6 +13,9 @@ function App() {
        <Switch>
        <Route path="/Home">
            <Home />
+         </Route>
+         <Route path='/Tablepage'>
+           <h1>Table page</h1>
          </Route>
          <Route path="/">
            <Firstpage />
